@@ -1,1 +1,1 @@
-# gen_ai-projrct-
+# gen_ai-project-
